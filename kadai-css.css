@@ -2,20 +2,26 @@ header {
   background-color: #ffcccc;
   width: 1000px;
   text-align: center;
+
 }
 
 #wrapper {
+  width: 1000px;
   display: flex;
+
 }
 
 #menu {
   background-color: #ccccff;
   width: 300px;
+
 }
 
 #main {
   background-color: #ccffcc;
   width: 700px;
+
+
 }
 
 footer {
